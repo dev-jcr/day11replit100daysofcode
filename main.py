@@ -1,4 +1,5 @@
 # How many seconds are in a year
+
 daysyear = int(input("How many days are in this year?"))
 if daysyear == 365:
   sec_y = 60 * 60 * 24 * daysyear
